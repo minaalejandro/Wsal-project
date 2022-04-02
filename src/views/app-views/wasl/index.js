@@ -3,7 +3,7 @@ import React from 'react'
 const Wasl = () => {
 	return (
 		<div>
-			Wasl component works!
+			Wasl 
 		</div>
 	)
 }
